@@ -1,1 +1,1 @@
-# React.js_freecodecamp_11.09.2024
+- Studu up to section-12: Build a react info -> 54:44
